@@ -1,0 +1,12 @@
+{
+  "name": "pick-tuong-lien-quan",
+  "version": "1.0.0",
+  "description": "Web gợi ý pick tướng Liên Quân",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
